@@ -1,0 +1,7 @@
+C:\Users\fader\Dropbox\My PC (DESKTOP-FHELGNS)\Desktop\Babel-Deobfuscator-master\Babel-Deobfuscator-master\obj\x64\Debug\BabelDeobfuscator.csprojAssemblyReference.cache
+C:\Users\fader\Dropbox\My PC (DESKTOP-FHELGNS)\Desktop\Babel-Deobfuscator-master\Babel-Deobfuscator-master\obj\x64\Debug\BabelDeobfuscator.csproj.CoreCompileInputs.cache
+C:\Users\fader\Dropbox\My PC (DESKTOP-FHELGNS)\Desktop\Babel-Deobfuscator-master\Babel-Deobfuscator-master\obj\x64\Debug\BabelDeobfuscator.csproj.CopyComplete
+C:\Users\fader\Dropbox\My PC (DESKTOP-FHELGNS)\Desktop\Babel-Deobfuscator-master\Babel-Deobfuscator-master\obj\x64\Debug\BabelDeobfuscator.exe
+C:\Users\fader\Dropbox\My PC (DESKTOP-FHELGNS)\Desktop\Babel-Deobfuscator-master\Babel-Deobfuscator-master\obj\x64\Debug\BabelDeobfuscator.pdb
+C:\Users\fader\Dropbox\My PC (DESKTOP-FHELGNS)\Desktop\Babel-Deobfuscator-master\BabelDeobfuscator.exe
+C:\Users\fader\Dropbox\My PC (DESKTOP-FHELGNS)\Desktop\Babel-Deobfuscator-master\BabelDeobfuscator.pdb
